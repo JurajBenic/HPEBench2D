@@ -42,7 +42,7 @@ The matchPeople.py script is designed to match predicted person keypoints with g
 ```
 .
 |───results
-│   │───method1
+│   │───method1 #example: rtmo
 │   |   │   method1_dataset1_camera1.json   #example: rtmo_160906_ian1_hd_00_01.json
 │   |   │   method1_dataset1_camera2.json
 │   |   │   method1_dataset2_camera15.json
@@ -57,7 +57,7 @@ The matchPeople.py script is designed to match predicted person keypoints with g
 │   └───...
 │       │   ...
 │   
-|───dataset1
+|───dataset1    #example: 160906_ian1
 |   |   hdPose2D_camera1.json   #example: hdPose2D_00_00.json
 |   │   hdPose2D_camera2.json
 |   │   ...
