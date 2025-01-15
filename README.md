@@ -29,7 +29,7 @@ Our analysis highlights the strengths and limitations of each framework, providi
 # Matching predicted keypoints with ground truth
 The matchPeople.py script is designed to match predicted person keypoints with ground-truth person keypoints. It supports the [Panoptic dataset](https://github.com/CMU-Perceptual-Computing-Lab/panoptic-toolbox) exclusively and requires the input results to be preformatted as specified in the documentation.
 |Parameter|Description|
-| :---: | :---:|
+| :--- | :---|
 | -v | Print progress. |
 | -path | Path to the folder of results. The structure of the folder has to be similar to the paper one.|
 | -datasets | Names of datasets/folders to process. If left blank it will process all datasest in the given -path directory. |
