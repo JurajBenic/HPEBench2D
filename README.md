@@ -108,8 +108,8 @@ The `matchPeople.py` script is designed to match predicted person keypoints with
 
 ## Authors
 ## Authors
-- [Juraj Benić](https://github.com/jbenic) - School of Applied Mathematics and Computer Science, University of Osijek
-- [Tomislav Prusina](https://github.com/tprusina) - School of Applied Mathematics and Computer Science, University of Osijek; Meet Intelligent Innovations LLC
+- [Juraj Benić](https://github.com/JurajBenic) - School of Applied Mathematics and Computer Science, University of Osijek
+- [Tomislav Prusina](https://github.com/tomo61098) - School of Applied Mathematics and Computer Science, University of Osijek; Meet Intelligent Innovations LLC
 - [Domagoj Ševerdija](https://github.com/dseverdi) - School of Applied Mathematics and Computer Science, University of Osijek; Meet Intelligent Innovations LLC
 - [Domagoj Matijević](https://github.com/dmatijevic) - School of Applied Mathematics and Computer Science, University of Osijek; Meet Intelligent Innovations LLC
 
